@@ -1,8 +1,8 @@
-# ByteBalancer: Weighted Round Robin (WRR) Scheduler in srsRAN 5G
 
-I built this project because *equal-share scheduling is polite, but not always useful* in real 5G systems.
 
-In a realistic deployment scenarios, not all UEs are equal:
+I built this project because *equal-share scheduling is polite, but not always useful* in real networked systems.
+
+In a realistic deployment scenarios, not all devices are equal:
 - some generate low-rate background traffic,
 - others are latency-sensitive,
 - and some demand sustained high throughput.
