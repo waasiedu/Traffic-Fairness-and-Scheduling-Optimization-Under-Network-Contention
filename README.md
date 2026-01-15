@@ -55,5 +55,6 @@ High-level flow:
 3. MAC scheduler iterates over active UEs.
 4. WRR allocates resources based on UE weights.
 5. Throughput shifts toward higher-weighted UEs as load increases.
+<img width="732" height="351" alt="image" src="https://github.com/user-attachments/assets/80ab1c18-099b-4e60-bbde-d0f38ea9569c" />
 
 
